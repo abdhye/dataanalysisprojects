@@ -14,4 +14,4 @@ Used different formulas in excel and drew necessary conclusions about the compan
 **IPL Dataset.ipynb** - This contains two small dataframes of IPL17 and IPL18 (Indian Premier League) having the records of all the ipl teams that won the match, lost the match, etc..
 Used pandas and numpy to answer some questions.
 
-**IMDB Case Study.ipynb** -  Did data analysis on the given dataset of movies.
+**IMDB Case Study.ipynb** -  applied exlporatory data analysis on the given dataset of movies.
